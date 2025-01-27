@@ -6,6 +6,7 @@ an empty practice repo to learn git operations.
 - **git commit**: Save your files in git
 - **git push**: Upload git commits to a remote repo like github
 - **git pull**: Download changes from remote repo to your local machine, the opposite of push.
+- **git branch** Create a new branch from the main/master
 
 ##linux commands
 rm -r "folder_name" : removes folder and its contents.
